@@ -19,6 +19,9 @@ final class AssistantsSettingsModel: ObservableObject {
     @Published var codexOn = AppPreferences.shared.agentKindEnabled(.codex) {
         didSet { AppPreferences.shared.setAgentKind(.codex, enabled: codexOn) }
     }
+    @Published var piOn = AppPreferences.shared.agentKindEnabled(.pi) {
+        didSet { AppPreferences.shared.setAgentKind(.pi, enabled: piOn) }
+    }
     @Published var askOnStop = AppPreferences.shared.agentAskOnStop {
         didSet { AppPreferences.shared.agentAskOnStop = askOnStop }
     }
@@ -35,7 +38,7 @@ final class AssistantsSettingsModel: ObservableObject {
     @Published private(set) var disabledProjects: [String] = []
 
     /// The moments and projects only matter while some agent is answered.
-    var enabled: Bool { claudeOn || codexOn }
+    var enabled: Bool { claudeOn || codexOn || piOn }
 
     init() { refreshProjects() }
 
