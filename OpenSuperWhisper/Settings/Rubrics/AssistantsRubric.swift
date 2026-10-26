@@ -82,7 +82,7 @@ struct AssistantsRubric: View {
             }
             SettingNotice("Codex's questions still show in the terminal, not in the panel.")
             SettingRow("pi and oh-my-pi",
-                       hint: "Install the pi-opensuperwhisper extension in pi or oh-my-pi. It needs no setup.") {
+                       hint: "Install the pi-opensuperwhisper extension in pi or oh-my-pi, then turn on Answer pi and oh-my-pi below.") {
                 EmptyView()
             }
             SettingRow("Answer pi and oh-my-pi",

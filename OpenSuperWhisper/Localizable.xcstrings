@@ -24335,48 +24335,48 @@
         }
       }
     },
-    "Install the pi-opensuperwhisper extension in pi or oh-my-pi. It needs no setup.": {
+    "Install the pi-opensuperwhisper extension in pi or oh-my-pi, then turn on Answer pi and oh-my-pi below.": {
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Installiere die Erweiterung pi-opensuperwhisper in pi oder oh-my-pi. Sie braucht keine Einrichtung."
+            "value": "Installiere die Erweiterung pi-opensuperwhisper in pi oder oh-my-pi und schalte dann unten pi und oh-my-pi antworten ein."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Instala la extensión pi-opensuperwhisper en pi u oh-my-pi. No necesita configuración."
+            "value": "Instala la extensión pi-opensuperwhisper en pi u oh-my-pi y activa después Responder a pi y oh-my-pi abajo."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Installez l'extension pi-opensuperwhisper dans pi ou oh-my-pi. Elle ne demande aucun réglage."
+            "value": "Installez l'extension pi-opensuperwhisper dans pi ou oh-my-pi, puis activez Répondre à pi et oh-my-pi ci-dessous."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Installa l'estensione pi-opensuperwhisper in pi o oh-my-pi. Non richiede configurazione."
+            "value": "Installa l'estensione pi-opensuperwhisper in pi o oh-my-pi, poi attiva Rispondi a pi e oh-my-pi qui sotto."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Instale a extensão pi-opensuperwhisper no pi ou no oh-my-pi. Ela não precisa de configuração."
+            "value": "Instale a extensão pi-opensuperwhisper no pi ou no oh-my-pi e depois ative Responder ao pi e ao oh-my-pi abaixo."
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Cài tiện ích pi-opensuperwhisper trong pi hoặc oh-my-pi. Không cần thiết lập."
+            "value": "Cài tiện ích pi-opensuperwhisper trong pi hoặc oh-my-pi, rồi bật Trả lời pi và oh-my-pi ở dưới."
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "在 pi 或 oh-my-pi 中安装 pi-opensuperwhisper 扩展，无需任何设置。"
+            "value": "在 pi 或 oh-my-pi 中安装 pi-opensuperwhisper 扩展，然后开启下方的“回复 pi 和 oh-my-pi”。"
           }
         }
       }
