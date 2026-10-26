@@ -133,7 +133,7 @@ Install the plugin from Settings → Assistants and OpenSuperWhisper shows a sma
 **Claude Code** finishes a task, needs a permission or asks you a question. Read the answer, then
 reply by voice or keyboard without going back to the terminal. **Codex** works too, except for its
 questions, which still wait in the terminal. **pi** and **oh-my-pi** work too, through the
-[pi-opensuperwhisper](https://github.com/dVelopment/pi-opensuperwhisper) extension. You choose which events
+[pi-opensuperwhisper](https://github.com/stibbons-ai/pi-opensuperwhisper) extension. You choose which events
 show the panel and which projects it follows. With live text on, your reply appears in the panel as
 you dictate it.
 
