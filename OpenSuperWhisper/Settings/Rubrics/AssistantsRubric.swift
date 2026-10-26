@@ -128,7 +128,7 @@ struct AssistantsRubric: View {
     private var notifyGroup: some View {
         SettingsGroup("Notify me when") {
             if !model.enabled {
-                SettingNotice("Turn on Claude Code or Codex above to choose when the panel shows.")
+                SettingNotice("Turn on Claude Code, Codex or pi above to choose when the panel shows.")
             }
             Group {
                 SettingRow("Finishes a task") { SSwitch(isOn: $model.askOnStop) }

@@ -40021,48 +40021,48 @@
         }
       }
     },
-    "Turn on Claude Code or Codex above to choose when the panel shows.": {
+    "Turn on Claude Code, Codex or pi above to choose when the panel shows.": {
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Schalte oben Claude Code oder Codex ein, um festzulegen, wann das Feld erscheint."
+            "value": "Schalte oben Claude Code, Codex oder pi ein, um festzulegen, wann das Feld erscheint."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Activa Claude Code o Codex arriba para elegir cuándo aparece el panel."
+            "value": "Activa Claude Code, Codex o pi arriba para elegir cuándo aparece el panel."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Activez Claude Code ou Codex ci-dessus pour choisir quand le panneau s'affiche."
+            "value": "Activez Claude Code, Codex ou pi ci-dessus pour choisir quand le panneau s'affiche."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Attiva Claude Code o Codex qui sopra per scegliere quando mostrare il pannello."
+            "value": "Attiva Claude Code, Codex o pi qui sopra per scegliere quando mostrare il pannello."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ative o Claude Code ou o Codex acima para escolher quando o painel aparece."
+            "value": "Ative o Claude Code, o Codex ou o pi acima para escolher quando o painel aparece."
           }
         },
         "vi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Bật Claude Code hoặc Codex ở trên để chọn khi nào bảng hiển thị."
+            "value": "Bật Claude Code, Codex hoặc pi ở trên để chọn khi nào bảng hiển thị."
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "请先在上方开启 Claude Code 或 Codex，才能选择面板何时显示。"
+            "value": "请先在上方开启 Claude Code、Codex 或 pi，才能选择面板何时显示。"
           }
         }
       }
